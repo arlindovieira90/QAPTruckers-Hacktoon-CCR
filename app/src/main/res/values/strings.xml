@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">QAP Truckers</string>
+        <string name="track">Track Activity</string>
+        <string name="percentage">%1$d%%</string>
+        <string name="bicycle">De Bicicleta</string>
+        <string name="foot">Andando</string>
+        <string name="running">Correndo</string>
+        <string name="still">Calmo</string>
+        <string name="tilting">Deitado</string>
+        <string name="unknown_activity">Sem atividade</string>
+        <string name="vehicle">Num veiculo</string>
+        <string name="walking">Caminhando</string>
+</resources>
