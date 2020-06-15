@@ -1,84 +1,77 @@
-<h1 align="center">
-    <b>QAP - Truckers</b> 
-</h1>
-
-
-<h4 align="center">
-
-   Clique [AQUI](https://www.figma.com/file/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers?node-id=0%3A1) para o layout no Figma
-</h4>
-
 <p align="center">
-  <img alt="Telas 2" src="https://i.ibb.co/xf8JYB2/Whats-App-Image-2020-06-13-at-14-40-57.jpg" >
+  <a href="" rel="noopener">
+ <img src="https://ibb.co/PtCKVVj" alt="Project logo" width=250px></a>
 </p>
 
+<h1 align="center">Hackthon CCR Saúde 2020</h1>
+<h2 align="center">QAP Truckers</h2>
+<h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/languages/count/tonydesideri/trackandmapmobile)]()
+[![License](https://img.shields.io/badge/license-GPL-blue)](/LICENSE.gpl)
+
+</div>
+
+---
+
+
+## 📝 Conteúdo
 <p align="center">
-  <img alt="Telas" src="https://i.ibb.co/CKY3S4f/Whats-App-Image-2020-06-13-at-14-40-57-1.jpg" >
+<a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#dev_acess">Acesso ao aplicativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#getting_started">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#built_using">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#authors">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="encurtador.com.br/hwEVX">Esquema de navegação</a>
 </p>
 
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
-</p>
-
-#  -  Índice
-
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
-
-<a id="sobre"></a>
-
-## :bookmark:  -  Sobre
- 
+## 🧐 Sobre <a name = "about"></a>
 
 Essa aplicação esta sendo construída durante o <strong>HACKATON CCR 2020</strong> da <strong>CCR</strong> organizado pela [Shawee](https://shawee.io/).Plataforma mobile (app) de
 medição e mapeamento de jornada, comportamento de dirigibilidade
 e reconhecimento automático de atividades físicas para educar e melhorar a jornada de trabalho
 condução,
-qualidade de vida e saúde dos caminhoneiros.</strong>
+qualidade de vida e saúde dos caminhoneiros
 
-<a id="tecnologias-utilizadas"></a>
+## 🏁 Iniciando <a name = "getting_started"></a>
 
-## :rocket:  -  Tecnologias Utilizadas
+Instruções rodar o aplicativo
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+### ⚒ Instalando <a name = "installing"></a>
+
+```
+git clone https://github.com/arlindovieira90/QAPTruckers-Hacktoon-CCR
+
+
+```
+
+## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
+
+### Mobile
 
 - [JAVA para Mobxile](https://www.typescriptlang.org/)
 - [ActivityRecognitionClient](https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionClient)
 - [Android Studio](https://developer.android.com/studio)
 
 
-<a id="como-usar"></a>
+## 🤔 Como contribuir <a name = "contribute"></a>
 
-## :fire:  -  Como usar ? 
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-<h4>Enquanto o app não é publicado nas lojas de aplicativos, você pode acessar usando os metódos abaixo</h4>
+## ✍️ Autores <a name = "authors"></a>
 
-  - Se preferir pode fazer o download do **APK** clicando **[AQUI](https://github.com/armandobretas/mobile-hackaton)** 
-  - Ou utilizar o EXPO, links para download abaixo
-  
-    - **[Android](https://play.google.com/store/apps/details?id=host.exp.exponent)**
-    - **[Iphone](https://apps.apple.com/br/app/expo-client/id982107779)**
-    - Abra o app e selecione Scan QR Code e leia-o abaixo ou clique **[AQUI](https://expo.io/@armandobretas/parada)**
+- [Arlindo Neto- Developer](https://www.linkedin.com/in/arlindo-neto-460a2955)
+- [Léo David Cunha -	Business](https://www.linkedin.com/in/leodavidbr/)
+- [Luis Filipe Sousa  - Developer](https://www.linkedin.com/in/lfssousa/)
 
-  <p align="center">
-    <img alt="QR CODE" src="https://i.ibb.co/3TRXDt1/download-5.png" >
-  </p>
+## 🗒 Licença
 
-
-<a id="como-contribuir"></a>
-
-## :recycle:  -  Como contribuir
-
-- Faça um Fork desse repositório,
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-
-feature`
-
-
-## :memo:  -  License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença GPL. Veja o arquivo [LICENSE](/LICENSE.gpl) para mais detalhes.
