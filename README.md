@@ -1,13 +1,13 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://ibb.co/PtCKVVj" alt="Project logo" width=250px></a>
+ <img src="https://i.ibb.co/6Nszqqw/logo.jpg" alt="Project logo" width=250px></a>
 </p>
 
 <h1 align="center">Hackthon CCR Saúde 2020</h1>
 <h2 align="center">QAP Truckers</h2>
 <h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
 <h2 align="center">
-   Clique [AQUI](https://www.figma.com/file/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers?node-id=0%3A1) para o layout no Figma
+   Clique [AQUI] (https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers) para o layout no Figma
 </h2>
 
 <div align="center">
