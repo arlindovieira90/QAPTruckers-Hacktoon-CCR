@@ -18,25 +18,7 @@
 
 
 <p align="center">
-  <img alt="Telas 1" src="https://i.ibb.co/d709V99/QAP-Truckers-1-01.png" >
-</p>
-<p align="center">
-  <img alt="Telas 2" src="https://i.ibb.co/d709V99/QAP-Truckers-1-02.png" >
-</p>
-<p align="center">
-  <img alt="Telas 3" src="https://i.ibb.co/d709V99/QAP-Truckers-1-03.png" >
-</p>
-<p align="center">
-  <img alt="Telas 4" src="https://i.ibb.co/d709V99/QAP-Truckers-1-04.png" >
-</p>
-<p align="center">
-  <img alt="Telas 5" src="https://i.ibb.co/d709V99/QAP-Truckers-1-05.png" >
-</p>
-<p align="center">
-  <img alt="Telas 6" src="https://i.ibb.co/d709V99/QAP-Truckers-1-06.png" >
-</p>
-<p align="center">
-  <img alt="Telas 7" src="https://i.ibb.co/d709V99/QAP-Truckers-1-07.png" >
+  <img alt="Telas" src="https://i.ibb.co/rxGDTnN/Whats-App-Image-2020-06-14-at-22-07-43.jpg" width=250px >
 </p>
 </div>
 
