@@ -6,6 +6,9 @@
 <h1 align="center">Hackthon CCR Saúde 2020</h1>
 <h2 align="center">QAP Truckers</h2>
 <h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
+<h2 align="center">
+   Clique [AQUI](https://www.figma.com/file/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers?node-id=0%3A1) para o layout no Figma
+</h2>
 
 <div align="center">
 
@@ -54,9 +57,9 @@ git clone https://github.com/arlindovieira90/QAPTruckers-Hacktoon-CCR
 
 ### Mobile
 
-- [JAVA para Mobxile](https://www.typescriptlang.org/)
-- [ActivityRecognitionClient](https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionClient)
-- [Android Studio](https://developer.android.com/studio)
+- [JAVA para Mobile](https://www.typescriptlang.org/) - Para desenvolvimento da Aplicação 
+- [ActivityRecognitionClient](https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionClient) - Biblioteca utilizada para capturar as funções referente a telemetria do usuario 
+- [Android Studio](https://developer.android.com/studio) - IDE para Desenvolvimento
 
 
 ## 🤔 Como contribuir <a name = "contribute"></a>
@@ -68,7 +71,7 @@ git clone https://github.com/arlindovieira90/QAPTruckers-Hacktoon-CCR
 
 ## ✍️ Autores <a name = "authors"></a>
 
-- [Arlindo Neto- Developer](https://www.linkedin.com/in/arlindo-neto-460a2955)
+- [Arlindo Neto- Developer](https://www.linkedin.com/in/arlindo-neto-460a2955) 
 - [Léo David Cunha -	Business](https://www.linkedin.com/in/leodavidbr/)
 - [Luis Filipe Sousa  - Developer](https://www.linkedin.com/in/lfssousa/)
 
