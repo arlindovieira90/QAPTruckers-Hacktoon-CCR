@@ -6,9 +6,9 @@
 <h1 align="center">Hackthon CCR Saúde 2020</h1>
 <h2 align="center">QAP Truckers</h2>
 <h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
-<h2 align="center">
-   Clique [AQUI] (https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers) para o layout no Figma
-</h2>
+<h4 align="center">
+   Clique [AQUI](https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers) para o layout no Figma
+</h4>
 
 <div align="center">
 
@@ -16,6 +16,28 @@
 [![GitHub Issues](https://img.shields.io/github/languages/count/tonydesideri/trackandmapmobile)]()
 [![License](https://img.shields.io/badge/license-GPL-blue)](/LICENSE.gpl)
 
+
+<p align="center">
+  <img alt="Telas 1" src="https://i.ibb.co/d709V99/QAP-Truckers-1-01.png" >
+</p>
+<p align="center">
+  <img alt="Telas 2" src="https://i.ibb.co/d709V99/QAP-Truckers-1-02.png" >
+</p>
+<p align="center">
+  <img alt="Telas 3" src="https://i.ibb.co/d709V99/QAP-Truckers-1-03.png" >
+</p>
+<p align="center">
+  <img alt="Telas 4" src="https://i.ibb.co/d709V99/QAP-Truckers-1-04.png" >
+</p>
+<p align="center">
+  <img alt="Telas 5" src="https://i.ibb.co/d709V99/QAP-Truckers-1-05.png" >
+</p>
+<p align="center">
+  <img alt="Telas 6" src="https://i.ibb.co/d709V99/QAP-Truckers-1-06.png" >
+</p>
+<p align="center">
+  <img alt="Telas 7" src="https://i.ibb.co/d709V99/QAP-Truckers-1-07.png" >
+</p>
 </div>
 
 ---
