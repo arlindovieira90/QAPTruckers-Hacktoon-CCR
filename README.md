@@ -7,7 +7,7 @@
 <h2 align="center">QAP Truckers</h2>
 <h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
 <h4 align="center">
-   Clique [AQUI](https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers) para o layout no Figma
+   Clique [AQUI](https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers/) para o layout no Figma
 </h4>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img alt="Telas" src="https://i.ibb.co/rxGDTnN/Whats-App-Image-2020-06-14-at-22-07-43.jpg" width=250px >
+  <img alt="Telas" src="https://i.ibb.co/rxGDTnN/Whats-App-Image-2020-06-14-at-22-07-43.jpg"  >
 </p>
 </div>
 
