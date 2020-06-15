@@ -7,7 +7,7 @@
 <h2 align="center">QAP Truckers</h2>
 <h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
 <h4 align="center">
-   Clique [AQUI](https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers/ ) para o layout no Figma
+	Clique <a href="https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers/" rel="noopener">AQUI</a> para o layout no Figma
 </h4>
 
 <div align="center">
