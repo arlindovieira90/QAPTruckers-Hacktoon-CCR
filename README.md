@@ -7,7 +7,7 @@
 <h2 align="center">QAP Truckers</h2>
 <h2 align="center">Melhorando sua jornada de Forma Segura e Saudável</h2>
 <h4 align="center">
-   Clique [AQUI](https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers/) para o layout no Figma
+   Clique [AQUI](https://www.figma.com/proto/rhQoNJjI3eErwccpImJQaQ/QAP-Truckers/ ) para o layout no Figma
 </h4>
 
 <div align="center">
@@ -39,7 +39,8 @@
 
 ## 🧐 Sobre <a name = "about"></a>
 
-Essa aplicação esta sendo construída durante o <strong>HACKATON CCR 2020</strong> da <strong>CCR</strong> organizado pela [Shawee](https://shawee.io/).Plataforma mobile (app) de
+Essa aplicação esta sendo construída durante o <strong>HACKATON CCR 2020</strong> da <strong>CCR</strong> organizado pela [Shawee](https://shawee.io/).
+Plataforma mobile (app) de
 medição e mapeamento de jornada, comportamento de dirigibilidade
 e reconhecimento automático de atividades físicas para educar e melhorar a jornada de trabalho
 condução,
